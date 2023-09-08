@@ -7,3 +7,4 @@ print(torch.cuda.is_available())
 #EEEEEEEEEEEEEE
 #hhhhhhhhhh
 #EEEEEEEEEEEEEEEEEEEEEEEEE
+#kanpeki!!!!!
